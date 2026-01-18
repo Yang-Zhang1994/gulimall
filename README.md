@@ -1,4 +1,4 @@
-# Gulimall - E-commerce Backend Management System
+# E-commerce Backend Management System
 
 [![Java](https://img.shields.io/badge/Java-1.8-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
@@ -8,7 +8,7 @@
 
 ## 📖 Project Introduction
 
-Gulimall is an e-commerce backend management system based on microservices architecture, using frontend-backend separation development mode. This project focuses on the backend management system, providing CRUD operations for core business modules including product management, order management, member management, inventory management, and promotional marketing.
+The e-commerce backend management system is based on microservices architecture, using frontend-backend separation development mode. This project focuses on the backend management system, providing CRUD operations for core business modules including product management, order management, member management, inventory management, and promotional marketing.
 
 ### ✨ Project Highlights
 
@@ -231,4 +231,5 @@ If you have any questions or suggestions, please contact us through:
 
 - Submit an Issue
 - Send an email
+
 

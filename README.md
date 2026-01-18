@@ -151,7 +151,7 @@ For detailed deployment instructions, please refer to [SETUP.md](SETUP.md)
 #### 1. Clone Project
 
 ```bash
-git clone https://github.com/Yang-Zhang1994/gulimall.git
+git clone https://github.com/Yang-Zhang1994/ecommerce-microservices-backend.git
 cd gulimall
 ```
 

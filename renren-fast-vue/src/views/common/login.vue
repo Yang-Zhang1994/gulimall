@@ -3,8 +3,8 @@
     <div class="site-content__wrapper">
       <div class="site-content">
         <div class="brand-info">
-          <h2 class="brand-info__text">renren-fast-vue</h2>
-          <p class="brand-info__intro">renren-fast-vue is built with vue and element-ui, implementing the frontend functionality of renren-fast backend management system, providing a better frontend solution.</p>
+          <h2 class="brand-info__text">Backend Management System</h2>
+          <p class="brand-info__intro">Microservices-based e-commerce management platform with Spring Cloud Alibaba and Vue.js, providing comprehensive solutions for product, order, member, and inventory management.</p>
         </div>
         <div class="login-main">
           <h3 class="login-title">Admin Login</h3>

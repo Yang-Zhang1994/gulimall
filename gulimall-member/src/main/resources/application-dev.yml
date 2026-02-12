@@ -1,0 +1,14 @@
+# AWS RDS - ecommerce_ums
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://ecommerce-db.cxyaw0eooo9c.us-east-2.rds.amazonaws.com:5432/ecommerce_ums
+    username: postgres
+    password: Bb77937794!
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true

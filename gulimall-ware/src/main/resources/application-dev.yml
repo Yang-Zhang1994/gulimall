@@ -1,0 +1,9 @@
+# Use same PostgreSQL as renren-fast (e.g. AWS RDS) when running with profile=dev
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://ecommerce-db.cxyaw0eooo9c.us-east-2.rds.amazonaws.com:5432/ecommerce_wms
+    username: postgres
+    password: Bb77937794!
+  jpa:
+    show-sql: true
